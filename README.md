@@ -6,6 +6,8 @@ Arduino code for Fire Tower project. Check it out and control the burn at the At
 
 ![Completed project](https://github.com/leybzon/FireTowerArduino/blob/master/videotogif_2016.10.04_15.01.57.gif "Completed Project")
 
+![Control Board](https://github.com/leybzon/FireTowerArduino/blob/master/videotogif_2016.10.04_14.48.00.gif "Control Board")
+
 Fire Tower is controlled by Android Application:
 https://github.com/leybzon/FireTower/
 
